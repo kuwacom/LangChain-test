@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-core
+beautifulsoup4
+requests
+
+# llama-cpp-python
